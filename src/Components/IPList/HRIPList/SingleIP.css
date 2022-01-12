@@ -1,0 +1,13 @@
+#btn-copy {
+  position: relative;
+}
+#btn-copied {
+  position: absolute;
+  top: -100%;
+  left: 50%;
+  background-color: blueviolet;
+  padding: 1px 8px;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 12px;
+}
